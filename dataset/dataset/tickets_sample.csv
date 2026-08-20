@@ -1,0 +1,19 @@
+id,canal,mensaje,categoria_esperada,prioridad_esperada,sentimiento_esperado
+1,whatsapp,"Hola! Quería saber si tienen stock de la talla M en la remera azul",consulta,2,neutral
+2,email,"Hace una semana que pedí un cambio de producto y nadie me responde. Esto es una tomada de pelo.",reclamo,5,negativo
+3,whatsapp,"Buenas! Cuáles son los horarios de atención?",consulta,1,neutral
+4,formulario,"Me interesa comprar 50 unidades para mi negocio, hacen descuento por mayor?",venta,3,positivo
+5,email,"El producto llegó roto y encima con el embalaje dañado. Quiero que me devuelvan la plata YA.",reclamo,5,negativo
+6,whatsapp,"Todo perfecto con mi pedido, llegó antes de lo esperado. Gracias!",consulta,1,positivo
+7,formulario,"Necesito saber si hacen envíos a Bariloche y cuánto tarda",consulta,2,neutral
+8,whatsapp,"Tercera vez que escribo y nadie me contesta. Quiero cancelar mi compra.",reclamo,5,negativo
+9,email,"Hola, quisiera cotizar la instalación de su servicio para una oficina de 10 personas",venta,3,neutral
+10,whatsapp,"El talle que pedí no era el que llegó, se puede cambiar?",reclamo,3,neutral
+11,formulario,"Vi su web y me interesa ser distribuidor en mi zona, cómo sigo?",venta,4,positivo
+12,email,"Buen día, ¿tienen garantía los productos? Por cuánto tiempo?",consulta,1,neutral
+13,whatsapp,"Esto es un desastre, segunda vez que me falla el mismo producto y encima me tratan mal por teléfono",reclamo,5,negativo
+14,formulario,"Quería felicitarlos por la atención, la chica que me atendió fue excelente",consulta,1,positivo
+15,email,"No me llegó la factura de mi compra, la necesito para mi contador",consulta,2,neutral
+16,whatsapp,"Pedí hace 2 días y todavía no sale el envío, qué está pasando?",reclamo,4,negativo
+17,formulario,"Somos una empresa y queremos un plan corporativo, contáctenme por favor",venta,4,neutral
+18,email,"Quiero cancelar mi suscripción, no estoy conforme con el servicio",reclamo,4,negativo
